@@ -1,0 +1,12 @@
+google-api-python-client
+matplotlib
+nltk
+numpy
+pandas
+plotly
+seaborn
+streamlit==1.34.0
+wordcloud
+tensorflow
+tf-keras
+scikit-learn
